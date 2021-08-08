@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/users/tre3ubec/badges/small"></img>
+<img src="https://www.codewars.com/users/tre3ubec/badges/large"></img>
 
 
 <!--
